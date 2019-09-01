@@ -6,7 +6,7 @@ Containerized version of famous nc command (nc)
 
 `docker run yks0000/nc`
 
-Default check on www.google.com on 443
+Default nc check to www.google.com on 443
 
 
 Override as below:
