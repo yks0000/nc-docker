@@ -1,7 +1,7 @@
 FROM alpine:3.10
 
 MAINTAINER Yogesh Sharma
-LABEL version="1.0"
+LABEL version="1.1"
 LABEL description="Dockerized nc (NetCat) command"
 
 RUN apk add netcat-openbsd
